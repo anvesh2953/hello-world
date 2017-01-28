@@ -1,3 +1,2 @@
 # hello-world
-Hi I am Anvesh I am new to Github
-This is good
+This is excercise to learn github and post the projects online.
